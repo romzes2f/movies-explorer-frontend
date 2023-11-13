@@ -1,0 +1,33 @@
+.app {
+    max-width: 1280px;
+    min-width: 320px;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    font-family: "Inter", "Arial", sans-serif;
+    font-size: 0;
+    line-height: 0;
+    color: black;
+    align-items: center;
+    flex-direction: column;
+}
+
+.app__link {
+    transition: opacity 0.3s linear;
+}
+
+.app__link:hover {
+    opacity: 0.7;
+}
+
+.app__button {
+    transition: opacity 0.3s linear;
+}
+
+.app__button:hover {
+    opacity: 0.8;
+}
