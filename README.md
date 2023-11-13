@@ -1,4 +1,4 @@
-# movies-explorer-api
+# movies-explorer-frontend
 Фронтенд часть дипломной работы
 
 ## Ccылка на Pull Request:
